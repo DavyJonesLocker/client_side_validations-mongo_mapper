@@ -2,7 +2,7 @@
 
 [![Build Status](http://travis-ci.org/dockyard/client_side_validations-mongo_mapper.png)](http://travis-ci.org/dockyard/client_side_validations-mongo_mapper)
 
-MongoMapper plugin for [ClientSideValidations](https://github.com/bcardarella/client_side_validations)
+[MongoMapper](https://github.com/jnunemaker/mongomapper) plugin for [ClientSideValidations](https://github.com/bcardarella/client_side_validations)
 
 ## Installation ##
 
