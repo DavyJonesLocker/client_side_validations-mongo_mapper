@@ -14,7 +14,7 @@ Gem::Specification.new do |gem|
   gem.version       = ClientSideValidations::MongoMapper::VERSION
 
   gem.add_dependency 'client_side_validations', '~> 3.2.0.beta.6'
-  gem.add_dependency 'mongo_mapper', '~> 0.10.1'
+  gem.add_dependency 'mongo_mapper', '~> 0.11'
 
   gem.add_development_dependency 'bson_ext'
   gem.add_development_dependency 'rails', '~> 3.2.0'
