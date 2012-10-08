@@ -4,6 +4,8 @@ class Magazine
   key :age,          Integer
   key :author_name,  String
   key :author_email, String
+
+  validates :author_name, :author_email, :uniqueness => true
 end
 
 module MongoMapperTestModule
