@@ -1,6 +1,6 @@
 # ClientSideValidations-MongoMapper #
 
-[![Build Status](https://secure.travis-ci.org/dockyard/client_side_validations-mongo_mapper.png?branch=0-11-stable)](http://travis-ci.org/dockyard/client_side_validations-mongo_mapper)
+[![Build Status](https://secure.travis-ci.org/dockyard/client_side_validations-mongo_mapper.png?branch=master)](http://travis-ci.org/dockyard/client_side_validations-mongo_mapper)
 [![Dependency Status](https://gemnasium.com/dockyard/client_side_validations-mongo_mapper.png?travis)](https://gemnasium.com/dockyard/client_side_validations-mongo_mapper)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/dockyard/client_side_validations-mongo_mapper)
 
