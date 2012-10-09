@@ -4,7 +4,7 @@
 [![Dependency Status](https://gemnasium.com/dockyard/client_side_validations-mongo_mapper.png?travis)](https://gemnasium.com/dockyard/client_side_validations-mongo_mapper)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/dockyard/client_side_validations-mongo_mapper)
 
-[![Build Status](http://travis-ci.org/dockyard/client_side_validations-mongo_mapper.png)](http://travis-ci.org/dockyard/client_side_validations-mongo_mapper)
+[MongoMapper](https://github.com/jnunemaker/mongomapper) plugin for [ClientSideValidations](https://github.com/bcardarella/client_side_validations)
 
 ## Installation ##
 
