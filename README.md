@@ -21,6 +21,12 @@ required **before** `ClientSideValidations-MongoMapper`.
 
 [Follow the remaining installation instructions for ClientSideValidations](https://github.com/bcardarella/client_side_validations/tree/3-2-stable/README.md)
 
+### Nested forms
+
+Validation will work on nested forms (using `fields_for`) only if you add the
+[`mongo_mapper-accepts_nested_attributes`](https://rubygems.org/gems/mongo_mapper-accepts_nested_attributes)
+gem and set it up appropriately in your model.
+
 ## Authors ##
 
 [Brian Cardarella](http://twitter.com/bcardarella)
